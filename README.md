@@ -6,3 +6,5 @@
 실시간 노동자 자세 인식
 자세 분석을 통한 문제점 도출
 자세 개선을 위한 해결책 제안
+
+![image](https://github.com/Sungung1/WorkPoseDetection/assets/127002268/450456d3-9cc7-4e8e-ac90-b0145ad84cf6)
